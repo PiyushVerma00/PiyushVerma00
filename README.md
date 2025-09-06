@@ -14,7 +14,7 @@
         <li>🔭 Currently working on: <b>MERN Clothing E-Commerce</b></li>
         <li>🌱 Learning: <b>React & Advanced MERN Stack</b></li>
         <li>📫 Reach me: <a href="mailto:piyushverma0919@gmail.com">piyushverma0919@gmail.com</a></li>
-        <li>📄 <a href="https://drive.google.com/file/d/1U6GkDFiYglujKawqgDC_JLMGEN8scswH/view?usp=drivesdk" target="_blank">Resume</a></li>
+        <li>📄 <a href="https://drive.google.com/file/d/1bg1c1mmZj6oGexaQj8C6JEZ6I18V9YFW/view?usp=sharing" target="_blank">Resume</a></li>
         <li>⚡ Fun fact: 🎮 When I’m not coding, I’m gaming or solving brain teasers!</li>
       </ul>
     </td>
